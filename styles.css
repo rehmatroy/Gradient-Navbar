@@ -1,0 +1,16 @@
+
+header{
+	background: radial-gradient(70.30% 560.83% at 98.4% 19.88%, #E685B9 10%, #9D6BE8 27%, #DE2778 54%, #B03DE2 98%);
+}
+/*styles of buttons*/
+.head-btn .login-btn{
+	border-radius: 10px;
+	font-size: 18px;
+}
+.head-btn button i{
+	color: white;
+	font-size: 15px;
+}
+.head-btn button i sup{
+	border-radius: 50px;
+}
